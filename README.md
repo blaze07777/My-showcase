@@ -1,2 +1,2 @@
 # My showcase
- Projects that I done during courses and by myself
+Here you can find all my projects done during robotdreams course
