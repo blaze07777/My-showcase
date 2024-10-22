@@ -1,4 +1,4 @@
-Here are my homeworks working with sql, i want to focus your attention that on each homework i returned to mistakes and fixed them. That who I really am.
+Here are my homeworks working with sql, i want to focus your attention that on each homework i returned to mistakes and fixed them. Thats who I really am.
 I want to do everything at my best. Even if there small mistakes which doesn't influence overall picture of my score.
 
 https://docs.google.com/document/d/1IGmjnxKEADvKokltvvrt9jBhVP5IjGztorS0Q87BXs8/edit?usp=sharing  - Task 9
