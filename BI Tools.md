@@ -1,4 +1,4 @@
-# Looker Report
+# Looker Reports
 [Looker](https://lookerstudio.google.com/reporting/e5448118-62c5-4d17-8c6a-22358e837f00)
 
 # Tableau Report
